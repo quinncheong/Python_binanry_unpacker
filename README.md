@@ -1,3 +1,5 @@
+Code to decompile an executable to read binanry - commonly used for hackathons. I cloned this and edited it for DSTA Brainhack CDDC 2020.
+
 Author: In Ming Loh (inming.loh@countercept.com - @tantaryu) <br />
 Company: Countercept (@countercept) <br />
 Website: https://www.countercept.com <br />
